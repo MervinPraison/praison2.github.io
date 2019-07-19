@@ -18,7 +18,7 @@ post_date: 2019-07-19 22:33:58
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>In phpMyAdmin , in Settings tab, you can try checking the following values:</p>
+<p>In Settings tab, you can try checking the following values:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
